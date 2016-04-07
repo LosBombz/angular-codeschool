@@ -1,0 +1,18 @@
+{
+  "name": "angular-codeschool",
+  "description": "Codeschools angular tutorial",
+  "main": "index.js",
+  "authors": [
+    "Carlos Escobar <carlos.escobar@logmein.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/LosBombz/angular-codeschool",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
